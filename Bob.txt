@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Hi!! I'm Bob. I've been here for a while now.
-=======
-Hey Bob! I'm new here!
->>>>>>> bobby_branch
+Hi!! I'm Bobby. I've been here for a while now.
 Here is a line!
