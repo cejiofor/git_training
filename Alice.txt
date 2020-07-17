@@ -4,3 +4,4 @@ And another line
 Added even another line for rebase test
 
 A change on Github
+Add a pull conflict
