@@ -6,3 +6,5 @@ Added even another line for rebase test
 A change on Github
 Add a pull conflict
 Making another line to stash
+
+Rewrite History w. Alice
